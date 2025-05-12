@@ -108,5 +108,5 @@ pip install numpy pandas tensorflow matplotlib opencv-python seaborn scikit-lear
 
 1. **Unzip the dataset** into `/mnt/data/extracted_data/`.
 2. **Open and run** `agriculture-pest-prediction-updated.ipynb` in Jupyter.
-3. Follow cells sequentially for preprocessing, model training, evaluation, and UI.
+3. Follow cells sequentially for preprocessing, model training, evaluation, and UI
 4. Use the **Gradio UI** for pest image prediction.
